@@ -8,3 +8,8 @@ Advantages of
 Importance of Source Code Management -
 
 
+Learning Git Commands
+
+git --version
+git init
+git add SCM.txt
